@@ -89,8 +89,4 @@ curl -X POST http://localhost:8080/api/assistant/voice \
 | POST | `/api/assistant/text` | assistente por texto |
 | POST | `/api/assistant/voice` | assistente por voz (entrada e saída em áudio) |
 
-## O que aprendi
 
-> Escreva aqui com as suas palavras: o que foi mais difícil, o que você entendeu sobre
-> Tool Calling, por que a IA chama casos de uso em vez de acessar o banco, e o que
-> pretende melhorar depois. Inclua prints e exemplos de requisição.
