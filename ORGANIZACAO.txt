@@ -1,0 +1,7 @@
+Organização aplicada
+===================
+
+- Mantida a implementação oficial em src/main/java e src/test/java.
+- Mantidos build.gradle, settings.gradle, application.properties, README.md, requests.http e LICENSE.
+- Removidos caches locais do Gradle (.gradle/) e arquivos Java duplicados que estavam na raiz.
+- O projeto não inclui gradlew/gradlew.bat nem gradle/wrapper. Abra pela pasta no IntelliJ como projeto Gradle; ou use uma instalação local do Gradle para executar os comandos.
